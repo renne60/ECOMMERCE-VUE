@@ -1,0 +1,117 @@
+[
+    {
+      "precio": 500,
+      "id": 1,
+      "title": "AMD Ryzen™ 9 5900X ",
+      "thumbnailUrl": "https://www.notebookcheck.org/fileadmin/_processed_/c/d/csm_Ryzen_5000_3_eb1c03503a.jpg",
+      "sku":"SKUN152565",
+      "descriptions":"Procesador AMD Ryezen 9 5900x 16 nucleos 32 hilos",
+      "stock":"20",
+      "create_date":"02/02/2022",
+      "categorie":"Tecnologia"
+    },
+    {
+      "precio": 850,
+      "id": 2,
+      "title": "Nvidia Titan RTX",
+      "thumbnailUrl": "https://www.notebookcheck.org/fileadmin/_processed_/e/3/csm_Titan_RTX_20_e11e4a401e.jpg"
+    },
+    {
+      "precio": 250,
+      "id": 3,
+      "title": "MSI MEG X570 Godlike",
+      "thumbnailUrl": "https://www.notebookcheck.org/fileadmin/_processed_/2/7/csm_MSI_MEG_X570_Godlike_3_80ae4d4ebf.jpg"
+    },
+    {
+      "precio": 150,
+      "id": 4,
+      "title": "Corsair Vengeance RGB Pro ",
+      "thumbnailUrl": "https://www.notebookcheck.org/fileadmin/_processed_/b/3/csm_Ryzen_5000_20_f00d401ffe.jpg"
+    },
+    {
+      "precio": 1000,
+      "id": 5,
+      "title": "IPhone 13 Pro ",
+      "thumbnailUrl": "https://www.uae.krocer.com/image/cache/catalog/AppleiPhone13proMAX256GBsmartphoneJAPANSpecs-550x600h.jpg"
+    },
+    {
+      "precio": 350,
+      "id": 6,
+      "title": "ASUS GeForce® GTX 1660 ",
+      "thumbnailUrl": "https://www.asus.com/media/global/products/se4ohh8lanezsfs0/P_setting_xxx_0_90_end_692.png"
+    },
+
+    {
+      "precio": 500,
+      "id": 7,
+      "title": "AMD Ryzen™ 9 5900X ",
+      "thumbnailUrl": "https://www.notebookcheck.org/fileadmin/_processed_/c/d/csm_Ryzen_5000_3_eb1c03503a.jpg"
+    },
+    {
+      "precio": 850,
+      "id": 8,
+      "title": "Nvidia Titan RTX",
+      "thumbnailUrl": "https://www.notebookcheck.org/fileadmin/_processed_/e/3/csm_Titan_RTX_20_e11e4a401e.jpg"
+    },
+    {
+      "precio": 250,
+      "id": 9,
+      "title": "MSI MEG X570 Godlike",
+      "thumbnailUrl": "https://www.notebookcheck.org/fileadmin/_processed_/2/7/csm_MSI_MEG_X570_Godlike_3_80ae4d4ebf.jpg"
+    },
+    {
+      "precio": 150,
+      "id": 10,
+      "title": "Corsair Vengeance RGB Pro",
+      "thumbnailUrl": "https://www.notebookcheck.org/fileadmin/_processed_/b/3/csm_Ryzen_5000_20_f00d401ffe.jpg"
+    },
+    {
+      "precio": 1000,
+      "id": 11,
+      "title": "IPhone 13 Pro ",
+      "thumbnailUrl": "https://www.uae.krocer.com/image/cache/catalog/AppleiPhone13proMAX256GBsmartphoneJAPANSpecs-550x600h.jpg"
+    },
+    {
+      "precio": 350,
+      "id": 12,
+      "title": "ASUS GeForce® GTX 1660",
+      "thumbnailUrl": "https://www.asus.com/media/global/products/se4ohh8lanezsfs0/P_setting_xxx_0_90_end_692.png"
+    },
+
+    {
+      "precio": 500,
+      "id": 13,
+      "title": "AMD Ryzen™ 9 5900X ",
+      "thumbnailUrl": "https://www.notebookcheck.org/fileadmin/_processed_/c/d/csm_Ryzen_5000_3_eb1c03503a.jpg"
+    },
+    {
+      "precio": 850,
+      "id": 14,
+      "title": "Nvidia Titan RTX",
+      "thumbnailUrl": "https://www.notebookcheck.org/fileadmin/_processed_/e/3/csm_Titan_RTX_20_e11e4a401e.jpg"
+    },
+    {
+      "precio": 250,
+      "id": 15,
+      "title": "MSI MEG X570 Godlike",
+      "thumbnailUrl": "https://www.notebookcheck.org/fileadmin/_processed_/2/7/csm_MSI_MEG_X570_Godlike_3_80ae4d4ebf.jpg"
+    },
+    {
+      "precio": 150,
+      "id": 16,
+      "title": "Corsair Vengeance RGB Pro",
+      "thumbnailUrl": "https://www.notebookcheck.org/fileadmin/_processed_/b/3/csm_Ryzen_5000_20_f00d401ffe.jpg"
+    },
+    {
+      "precio": 1000,
+      "id": 17,
+      "title": "IPhone 13 Pro ",
+      "thumbnailUrl": "https://www.uae.krocer.com/image/cache/catalog/AppleiPhone13proMAX256GBsmartphoneJAPANSpecs-550x600h.jpg"
+    },
+    {
+      "precio": 350,
+      "id": 18,
+      "title": "ASUS GeForce® GTX 1660",
+      "thumbnailUrl": "https://www.asus.com/media/global/products/se4ohh8lanezsfs0/P_setting_xxx_0_90_end_692.png"
+    }
+  ]
